@@ -1,8 +1,8 @@
 # Site configuration for GitHub Pages
 title: Alfabética - Privacy Policy
 description: Privacy Policy for the Alfabética mobile application
-url: https://yourusername.github.io
-baseurl: /privacy-policy
+url: https://larissacara.github.io
+baseurl: /alfabetica-privacy-policy
 
 # GitHub Pages theme
 theme: jekyll-theme-minimal
