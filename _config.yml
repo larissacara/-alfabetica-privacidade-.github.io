@@ -1,0 +1,28 @@
+# Site configuration for GitHub Pages
+title: Alfabética - Privacy Policy
+description: Privacy Policy for the Alfabética mobile application
+url: https://yourusername.github.io
+baseurl: /privacy-policy
+
+# GitHub Pages theme
+theme: jekyll-theme-minimal
+
+# Markdown processor
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files/folders
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Enable YAML front matter
+safe: false
+
+# Locale
+lang: pt-BR
